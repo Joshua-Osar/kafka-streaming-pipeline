@@ -1,10 +1,5 @@
 # kafka-streaming-pipeline
 
-You're right! I didn't include all the Docker services from your `docker-compose.yml` file. Let's update the README to reflect all the services you used, based on the content from your `docker-compose.yml`.
-
----
-
-# YouTube Analytics Pipeline with Telegram Notifications
 
 This repository provides a pipeline for fetching YouTube video statistics, streaming them to Kafka, and sending notifications to a Telegram channel using Telegram's API.
 
