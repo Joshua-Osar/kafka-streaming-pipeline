@@ -1,5 +1,7 @@
 # kafka-streaming-pipeline
 
+![image (1)](https://github.com/user-attachments/assets/7a8dc68e-7c56-4896-a14c-fc6fb783fbeb)
+
 
 This repository provides a pipeline for fetching YouTube video statistics, streaming them to Kafka, and sending notifications to a Telegram channel using Telegram's API.
 
@@ -81,6 +83,9 @@ docker-compose down
 ```
 
 ## Telegram Integration
+
+![Screenshot (43)](https://github.com/user-attachments/assets/3c111d4f-7f5b-4f99-a21d-b515adc948a2)
+
 
 The script sends formatted video statistics, including views, likes, and comments, to a Telegram channel using the bot's API. The data sent to Telegram includes:
 - Video title
